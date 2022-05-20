@@ -1,0 +1,172 @@
+---
+title: "Juventude, futuro acadêmico e ingresso no mercado de trabalho"
+#subtitle: "EEMTI Presidente Humberto de Alencar Castelo Branco"
+institute: "EEMTI Presidente Humberto de Alencar Castelo Branco"
+author: "Dr. Gerrio Barbosa"
+date: "Maio de 2022"
+#date: "`r Sys.Date()`"
+encoding: "UTF-8"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    #chakra: libs/remark-latest.min.js
+    css: [xaringan-themer.css]
+    nature:
+      ratio: 18:10
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle, animated slideInRight fadeOutLeft, animated slideInRight fadeOutLeft
+
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE, message = FALSE,
+                      warning = FALSE)
+
+```
+
+
+# Trajetória
+
+
+---
+# Filho de Agricultores
+
+```{r, echo=FALSE, fig.align='center', out.width = '40%'}
+
+knitr::include_graphics('agricultores.gif')
+
+```
+
+
+
+
+---
+# Ensino Público
+
+
+```{r, echo=FALSE, fig.align='center', out.width = '80%'}
+knitr::include_graphics('escolaPublica2.gif')
+
+```
+
+
+---
+# Universidades Federais
+
+```{r, echo=FALSE, fig.align='center', out.width = '60%'}
+knitr::include_graphics('universidade.gif')
+```
+
+
+---
+
+# Profissões 
+
+```{r, echo=FALSE, fig.align='center', out.width = '60%'}
+knitr::include_graphics('profissoes.gif')
+
+```
+
+---
+class: center, middle, animated slideInRight fadeOutLeft, animated slideInRight fadeOutLeft
+
+# Ciência de Dados
+
+---
+# Por que usar ciência de dados?
+
+```{r, echo=FALSE, fig.align='center', out.width = '80%'}
+knitr::include_graphics('pq_usar_DS.gif')
+
+```
+
+
+
+---
+
+# Quem usa ciência de dados?
+
+
+```{r, echo=FALSE, fig.align='center', out.width = '80%'}
+knitr::include_graphics('quem_usa_DS.gif')
+
+```
+
+
+---
+# O que precisa saber?
+
+```{r, echo=FALSE, fig.align='center', out.width = '80%'}
+knitr::include_graphics('o_que_saber_DS.gif')
+
+```
+
+
+
+---
+class: center, middle, animated slideInRight fadeOutLeft, animated slideInRight fadeOutLeft
+
+# Futuro
+
+---
+
+.pull-left[
+
+
+```{r, echo=FALSE, fig.align='center', out.width = '80%'}
+
+knitr::include_graphics('apple_samsung.gif')
+
+```
+
+
+```{r, echo=FALSE, fig.align='center', out.width = '90%'}
+knitr::include_graphics('microsoft.gif')
+```
+
+
+
+
+
+]
+
+
+.pull-right[
+
+```{r, echo=FALSE, fig.align='center', out.width = '90%'}
+
+knitr::include_graphics('google.gif')
+
+```
+
+
+```{r, echo=FALSE, fig.align='center', out.width = '100%'}
+
+knitr::include_graphics('meta.gif')
+
+```
+
+
+]
+
+---
+
+# Metaverso
+
+```{r, echo=FALSE, fig.align='center', out.width = '80%'}
+knitr::include_graphics('mataverso_futuro.gif')
+```
+---
+
+```{r, echo=FALSE, fig.align='center', out.width = '100%'}
+
+knitr::include_graphics('fim.gif')
+
+```
+
+
+
+
