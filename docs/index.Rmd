@@ -3,7 +3,7 @@ title: "Juventude, futuro acadêmico e ingresso no mercado de trabalho"
 #subtitle: "EEMTI Presidente Humberto de Alencar Castelo Branco"
 institute: "Observatório do Federalismo Brasileiro"
 author: "Dr. Gerrio Barbosa"
-date: "20 de Maio de 2022"
+date: "27 de Maio de 2022"
 #date: "`r Sys.Date()`"
 encoding: "UTF-8"
 output:
